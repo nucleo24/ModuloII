@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchJob</string>
+    <string name="title_activity_insertar">Job Posting</string>
+    <string name="title_activity_sincro">Sync</string>
+    <string name="title">Title:</string>
+    <string name="sincro">Sync Now!</string>
+    <string name="description">Description:</string>
+    <string name="number">Contac Number:</string>
+    <string name="save">Save:</string>
+    <string name="insert">Job Posting</string>
+    <string name="title_activity_splash_screen">splash_screen</string>
+</resources>

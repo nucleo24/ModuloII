@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BuscarTrabajo</string>
+    <string name="description">Descripcion:</string>
+    <string name="insert">Postear Trabajo</string>
+    <string name="number">Numero de Contacto:</string>
+    <string name="save">Guardar:</string>
+    <string name="sincro">Sincronizar Ahora</string>
+    <string name="title">Titulo:</string>
+    <string name="title_activity_insertar">Postear Trabajo</string>
+    <string name="title_activity_sincro">Sincronizar</string>
+</resources>
